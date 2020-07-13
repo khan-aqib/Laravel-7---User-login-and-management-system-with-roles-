@@ -40,7 +40,8 @@ class LoginController extends Controller
     }
 
     /*
-     * overwriting redirection
+     *
+     * overwriting redirection  using Redirect To method
      *
      */
     public function redirectTo()
@@ -51,8 +52,8 @@ class LoginController extends Controller
             $this->redirectTo = route('admin.users.index');
             return $this->redirectTo;
         }
-        $this->redirectTo = route('home');
-        return $this->redirectTo;
+            $this->redirectTo = route('home');
+            return $this->redirectTo;
     }
 
 
