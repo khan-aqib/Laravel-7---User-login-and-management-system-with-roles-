@@ -12,7 +12,7 @@
 
 ## Installation
 
-    After cloning git-repo
+    Clone git-repo
     
     composer update
     
