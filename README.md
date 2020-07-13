@@ -12,7 +12,13 @@
 
 ## Installation
 
-    After cloning git-repo, run composer updater
+    After cloning git-repo, 
+    composer update
+    configure env file
+    Migrate DB
+    seed DB
+    artian serve 
+        
 
 ## Contributing
 
