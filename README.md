@@ -12,17 +12,19 @@
 
 ## Installation
 
-    After cloning git-repo, 
+    After cloning git-repo
+    
     composer update
+    
     configure env file
+    
     Migrate DB
+    
     seed DB
+    
     artian serve 
         
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## Code of Conduct
 
